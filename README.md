@@ -15,3 +15,4 @@ Yaratıcılık,yeni beceriler kazanma ,sorunlrı çözme ,inovasyon  ve daha ekl
 
 
 
+
