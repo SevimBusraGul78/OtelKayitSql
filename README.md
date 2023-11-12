@@ -7,9 +7,6 @@ Yaratıcılık,yeni beceriler kazanma ,sorunlrı çözme ,inovasyon  ve daha ekl
 
 ## Muhtemelen veri tabanlar
 
-. ![bbb](https://user-images.githubusercontent.com/116757374/236666022-93944486-f122-4b74-895b-2ce085e5ac98.png)
+![2023-11-12_16-23-38](https://github.com/SevimBusraGul78/Otel-kay-t-personel/assets/116757374/af6811fb-d497-43cd-8ffa-c46af12772ee)
 
-![bbbb](https://user-images.githubusercontent.com/116757374/236666055-60337c40-c4ae-4001-862d-ad1a3b1343fe.png)
-
-![bbbbb](https://user-images.githubusercontent.com/116757374/236666064-6df51976-e594-42e0-914b-bf1cdfde8d1a.png)
 
