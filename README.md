@@ -4,6 +4,7 @@ C# programlama dili kullanarak bir otel resepsiyonu uygulaması geliştirmek, ot
 
 ## Motivasyon
 Yaratıcılık,yeni beceriler kazanma ,sorunlrı çözme ,inovasyon  ve daha ekleyecek bir çok özelliğin yanında en önemli  motivasyon **topluluğa** katkı olmasıdır.İnsanların konforlu bir hayat sunması için  bu yazılımı gerçekleştirmekteyim. 
+Demo Videosu:https://youtu.be/zSDGZzNQPcA
 
 ## Muhtemelen veri tabanlar
 
