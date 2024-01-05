@@ -13,6 +13,6 @@ Yaratıcılık,yeni beceriler kazanma ,sorunlrı çözme ,inovasyon  ve daha ekl
 ![2023-11-12_16-24-53](https://github.com/SevimBusraGul78/Otel-kay-t-personel/assets/116757374/9ebb14b6-9771-49c5-9904-c0aa1c310852)
 ![2023-11-12_16-25-04](https://github.com/SevimBusraGul78/Otel-kay-t-personel/assets/116757374/c2c33b70-bda4-4b69-8d2d-17a729aeb621)
 
-
+https://youtu.be/zSDGZzNQPcA
 
 
